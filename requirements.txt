@@ -1,0 +1,10 @@
+beir
+datasets
+numpy
+pandas
+random
+sentence_transformers
+torch
+transformers
+annoy
+tqdm
